@@ -1,0 +1,19 @@
+{
+  "name": "noteme",
+  "version": "0.0.1",
+  "description": "notes collector",
+  "main": "index.js",
+  "authors": {
+    "name": "Leon Liu",
+    "email": "thisisleonliu@gmail.com"
+  },
+  "repository": "/noteme",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
